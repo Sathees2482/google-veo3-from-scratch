@@ -1,0 +1,17 @@
+google-generativeai
+tqdm
+matplotlib
+pickle-mixin
+opencv-python
+requests
+imageio
+Pillow
+torch
+torchaudio
+torchvision
+diffusers
+transformers
+einops
+numpy
+scikit-image
+openai
